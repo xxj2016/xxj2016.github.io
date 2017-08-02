@@ -43,6 +43,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-#disqus settings
+# disqus settings
 disqus:
   shortname: xuxuxu
