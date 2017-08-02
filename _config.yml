@@ -42,3 +42,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#disqus settings
+disqus:
+  shortname: xuxuxu
